@@ -49,8 +49,9 @@
         height: 100%;
         width: 100%;
         right: -100%;
-        background-color: rgb(255, 255, 255, 0.9);
+        background-color: rgb(255, 255, 255, 0.95);
         transition: 0.4 ease-in-out;
+        z-index: 1;
     }
 
     .navbar  .active{
